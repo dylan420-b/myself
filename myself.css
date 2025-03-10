@@ -6,6 +6,7 @@ margin: 0;
 padding: 10px;
 line-height: 1;
 text-align: center
+border: 5px solid purple;
 }
 
 header {
